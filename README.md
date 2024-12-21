@@ -76,7 +76,7 @@ Discover free trading signals powered by expert technical analysis. Boost your f
 
 ## **About This Project**
 
-This GRU model is an initial implementation, released for public use. The project demonstrates the potential of deep learning models for financial predictions. While this repository focuses on GRU, I have also utilized other models, the code for which is available on my GitHub[https://github.com/taleblou/].
+This XGBoost model is an initial implementation, released for public use. The project demonstrates the potential of deep learning models for financial predictions. While this repository focuses on XGBoost, I have also utilized other models, the code for which is available on my GitHub[https://github.com/taleblou/].
 
 ## **How to Use**
 
